@@ -1,7 +1,7 @@
 # Support-Vector-Machine-SVM
 Model Predicting on tumour type i.e. malignant or benign tumour
 
-Based on the scikit-learn inbuild data sets, which have various data or the tumour predicting malignant or benign tumour.
+Based on the scikit-learn inbuild data sets, using breast cancer data predicting malignant or benign tumour.
 
 Steps:
 1) Importing necessary libraries.
